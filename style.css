@@ -173,6 +173,7 @@ img {
     gap:5em;
     padding:1em 4em;
     align-items: center;
+    justify-content: center;
     color:#E5E7EB
 
 }
