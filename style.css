@@ -133,6 +133,10 @@ img {
 
 }
 
+.card p {
+    width:150px;
+}
+
 /*Quote*/
 
 .quotebackground {
